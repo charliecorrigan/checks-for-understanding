@@ -5,12 +5,6 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 
-#### Review  
-12. What's the MVC design pattern? Describe each part of MVC.
-13. What are a few ways to optimize a Rails application?
-14. What's a background worker? When would we want to use a background worker?
-
-
 1. What's the most useful thing you learned from completing the intermission week work?
 
 I enjoyed doing Sorting Suite. I got a lot more comfortable with Javascript/Chai getting to play with it in a familiar context. It helped me to understand a lot of the similarities between Javascript and Ruby, which helps to isolate the differences.
